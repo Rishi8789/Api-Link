@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "json-server": "^0.17.4"
-  }
+  },
+  "name": "api-link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi8789/Api-Link.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi8789/Api-Link/issues"
+  },
+  "homepage": "https://github.com/Rishi8789/Api-Link#readme",
+  "description": ""
 }
